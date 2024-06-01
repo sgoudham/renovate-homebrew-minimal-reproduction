@@ -3,7 +3,7 @@ Minimal reproduction repository for https://github.com/renovatebot/renovate/disc
 ## Context
 
 My overall goal is that I want to pull in multiple package updates from the
-[catppuccin-toolbox](https://github.com/catppuccin/toolbox) monorepo.
+[catppuccin-toolbox](https://github.com/catppuccin/toolbox) monorepo and automatically update the files under `Formula/`, mimicking a homebrew-tap.
 
 I have multiple custom tags/releases being published. E.g.
 [whiskers-v2.3.0](https://github.com/catppuccin/toolbox/releases/tag/whiskers-v2.3.0)
