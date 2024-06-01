@@ -64,13 +64,13 @@ Shown below is the configuration of [renovate.json](./renovate.json).
   ```md
   <details><summary>Formula/catwalk.rb</summary>
 
-  - `whiskers catwalk-v1.3.0`
+  - `catwalk catwalk-v1.3.0`
 
   </details>
 
   <details><summary>Formula/whiskers.rb</summary>
 
-  - `catwalk whiskers-v2.1.0`
+  - `whiskers whiskers-v2.1.0`
 
   </details>
   ```
