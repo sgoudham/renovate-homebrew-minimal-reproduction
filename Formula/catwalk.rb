@@ -1,8 +1,8 @@
 class Catwalk < Formula
   desc "Soothing preview image generator for the high-spirited!"
   homepage "https://github.com/catppuccin/toolbox/tree/main/catwalk"
-  url "https://github.com/catppuccin/toolbox/archive/refs/tags/catwalk-v1.3.0.tar.gz"
-  sha256 "e660ff504641d0eec9a69c2945970cfd121de9c7e6dd769c6ba3a72fed76700a"
+  url "https://github.com/catppuccin/toolbox/archive/refs/tags/whiskers-v2.3.0.tar.gz"
+  sha256 "aba0e5c17cb6853f25a303480da82e2c2b50fbab1be50d4620e82ecfaa1f183e"
   license "MIT"
   head "https://github.com/catppuccin/toolbox.git", branch: "main"
 
